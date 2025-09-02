@@ -61,4 +61,11 @@ Paso 10 -
 
 Una vez que terminé la funcionalidad en mi rama feature/nueva-funcionalidad, hice la Pull Request correctamente dentro de mi fork ya que me equivoque antes y la hice en la de ingucc y la aprobé yo mismo con el botón verde. Esto une mi trabajo con main, como si lo integrara al proyecto final.
 
+Paso 11 - 
 
+Después de hacer el Pull Request desde fix/index a main y confirmar el merge, nos quedamos con la rama main local desactualizada respecto a GitHub. Por eso hicimos hacemos rebase, pero cuando git empeiza a tarer los commits se encuentra con conflitcos en readme e index para ello use un git add y lo solucione manualmente 
+
+Paso 12 - 
+
+ Cree un tag v1.0.0 para marcar el punto en el que el sistema ya esta perfecto.
+Esto nos permite versionar el proyecto y tener una referencia clara para futuras mejoras o despliegues en producción.

@@ -61,3 +61,4 @@ Paso 10 -
 
 Una vez que terminé la funcionalidad en mi rama feature/nueva-funcionalidad, hice la Pull Request correctamente dentro de mi fork ya que me equivoque antes y la hice en la de ingucc y la aprobé yo mismo con el botón verde. Esto une mi trabajo con main, como si lo integrara al proyecto final.
 
+
